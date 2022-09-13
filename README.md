@@ -7,7 +7,7 @@ For this project, we were tasked with looking at 2 data sources and performing t
 
 ## Extract
 
-First, we explored kaggle.com to find an interesting data source to work with. We found our winner in 2 data sources that look at gun violence data and automobile data.
+First, we explored kaggle.com to find an interesting data sources to work with. We data sources that look at gun violence data and automobile data.
     
     -Complete vehicle technical database:  https://www.car-engineer.com/complete-vehicle-technical-database/ 
     
@@ -18,13 +18,13 @@ First, we explored kaggle.com to find an interesting data source to work with. W
 
 ## Transform
 
-Once our data was loaded into our Jupyter Notebook, we got to work make transformations. We performed the following tranformations with our data:
+    -Both of our data sources were formatted in excel files and we loaded them into our Jupyter Notebooks to turn them into csv files.
 
 
-Renamed all of the ... columns to indicate ....., who's ..... were not represented so that there was consistency across the tables.
+    -We renamed the columns to make them compatible with Postgres.
 
 
-We dropped some extra columns that we deemed unusable for future analysis. We dropped the "..." and "..." columns from the ... dataframe as they contained a lot of NaN values and did not provide valuable information.
+    -We dropped some extra columns that we deemed unusable for future analysis because the dataframe contained NaN values and did not provide       valuable information.
 
 
 We grouped the ... by .... to combine any duplicated within the table. We summed the "..." and "..." columns, averaged the "...k" column and provided a count of each restaurant so the viewer can see if it was represented in the original table multiple times. Finally, we sorted this new dataframe by ... in descending order to see the new highest ranking ... .
