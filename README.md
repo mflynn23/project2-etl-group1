@@ -1,15 +1,15 @@
 # project2-etl-group1
 
-#Background
+# Background
 
 For this project, we were tasked with finding an interesting data source and performing the ETL process on it. In the below sections, you will read how we Extracted our data, made necessary transformations to it and loaded it into a database.
 
 
-#Extract
+# Extract
 
 First, we explored kaggle.com to find an interesting data source to work with. We found our winner in 2 data sources that look at gun violence data and automobile data. We found this data interesting because _.
 
-#Transform
+# Transform
 
 Once our data was loaded into our Jupyter Notebook, we got to work make transformations. We performed the following tranformations with our data:
 
@@ -37,7 +37,7 @@ To maintain the integrity of our ... dataframe, we made a copy then dropped unne
 
 We took the ... dataframe and sorted the rows by .... Next, we reset the index and made it count from 1 to show the new rankings. Finally, we renamed the index to Rank and dropped unnecessary columns.
 
-#Load
+# Load
 
 
 After we were satisfied with our data transformations, we used the following procedure to load our dataframes into our Postgres Database:
