@@ -8,8 +8,13 @@ For this project, we were tasked with looking at 2 data sources and performing t
 ## Extract
 
 First, we explored kaggle.com to find an interesting data source to work with. We found our winner in 2 data sources that look at gun violence data and automobile data.
+    
     -Complete vehicle technical database:  https://www.car-engineer.com/complete-vehicle-technical-database/ 
+    
+    
     -United States Gun Violence Data 2014-2022: https://www.kaggle.com/datasets/jasonmobley/united-states-gun-violence-data-20142022? resource=download
+
+
 
 ## Transform
 
