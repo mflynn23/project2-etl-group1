@@ -38,6 +38,8 @@ To maintain the integrity of our ... dataframe, we made a copy then dropped unne
 We took the ... dataframe and sorted the rows by .... Next, we reset the index and made it count from 1 to show the new rankings. Finally, we renamed the index to Rank and dropped unnecessary columns.
 
 #Load
+
+
 After we were satisfied with our data transformations, we used the following procedure to load our dataframes into our Postgres Database:
 
 We created a python file to hold our password. Using the password file, we created an engine to connect to our Postgres database and confirmed a successful connection by checking for existing tables.
