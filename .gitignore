@@ -130,3 +130,6 @@ dmypy.json
 
 config.py
 pw.py
+
+#mac file
+.DS_Store
