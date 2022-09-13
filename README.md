@@ -6,4 +6,5 @@ For this project, we were tasked with finding an interesting data source and per
 
 
 Extract
+
 First, we explored kaggle.com to find an interesting data source to work with. We found our winner in 2 data sources that look at gun violence data and automobile data. We found this data interesting because _.
