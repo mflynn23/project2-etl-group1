@@ -11,7 +11,6 @@ First, we explored kaggle.com to find an interesting data sources to work with. 
     
     * Complete vehicle technical database:  https://www.car-engineer.com/complete-vehicle-technical-database/ 
     
-    
     * United States Gun Violence Data 2014-2022: https://www.kaggle.com/datasets/jasonmobley/united-states-gun-violence-data-20142022? resource=download
 
 
