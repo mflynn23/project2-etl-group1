@@ -31,12 +31,12 @@ First, we explored kaggle.com to find an interesting data sources to work with. 
 ## Load
 
 
-* After we were satisfied with our data transformations, we used the following procedure to load our dataframes into our Postgres Database:
+* After we were satisfied with our cleaned data transformations, we used the following procedure to load our dataframes into our relational Postgres Databases:
 
-* We created a python file to hold our password. Using the password file, we created an engine to connect to our Postgres database and confirmed a successful connection by checking for existing tables.
+    * We created a python file to hold our passwords. Using the password file, we created an engine to connect to our Postgres database and confirmed a successful connection by checking for existing tables.
 
 
-* We then added each of our transformed dataframes to our relational Postgres databases. To validate the data was inserted correctly, we ran simple SQL queries.
+    * We then added each of our transformed dataframes to Postgres. To validate the data was inserted correctly, we ran simple SQL queries.
 
 
 ## Findings 
