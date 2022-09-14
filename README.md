@@ -45,8 +45,8 @@ First, we explored kaggle.com to find an interesting data sources to work with. 
 
 * Car Queries:
     * Maxiumum Average Fuel Consumption
-        * Top car: Volkswagon Toureg 
-        * 2WD: Renault Grand Espace at 12.2 pmg
+        * Top car overall: Volkswagon Toureg with _ mpg
+        * 2WD: Renault Grand Espace with 12.2 mpg
     * 
     
 * Gun Violence Queries: 
