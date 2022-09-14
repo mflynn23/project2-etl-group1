@@ -45,8 +45,8 @@ First, we explored kaggle.com to find an interesting data sources to work with. 
 
 * Car Queries:
     * Maxiumum Average Fuel Consumption
-        * 4WD: Volkswagon Toureg with 15.7 mpg
-        * 2WD: Renault Grand Espace with 12.2 mpg
+        * 4WD: Volkswagon Toureg with 15.7 l/100km
+        * 2WD: Renault Grand Espace with 12.2 l/100km
     
 * Gun Violence Queries: 
     * Number of incidents by city
