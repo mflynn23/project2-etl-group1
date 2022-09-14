@@ -19,13 +19,15 @@ First, we explored kaggle.com to find an interesting data sources to work with. 
 
 ## Transform
 
-* Both of our data sources were formatted in excel files and we loaded them into our Jupyter Notebooks to turn them into csv files.
+* Both of our data sources were formatted in excel files and we loaded them into our Jupyter Notebooks and used Pandas to turn them into csv files.
 
-* We renamed the columns to make them compatible with Postgres.
+* For each source, selected variables of interest for the analysis and renamed the columns to make them compatible with Postgres.
 
 * We used Python functions to clean and group relevant data.
 
 * We dropped some extra columns that we deemed unusable for future analysis because the dataframe contained NaN values and did not provide       valuable information. 
+
+* All of our data were in a CSV format, so we went with SQL to store the data.
 
 
 ## Load
