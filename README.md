@@ -37,3 +37,7 @@ First, we explored kaggle.com to find an interesting data sources to work with. 
 
 
 * We then added each of our transformed dataframes to our relational Postgres databases. To validate the data was inserted correctly, we ran simple SQL queries.
+
+
+## Findings 
+
