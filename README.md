@@ -52,4 +52,4 @@ First, we explored kaggle.com to find an interesting data sources to work with. 
     * Number of incidents by city
         * Philadelphia has the 2nd most incidents in the US
     * 20 most dealy gun incidents of 2022
-        * Not surprisingly, Uvalde with 22 confirmed deaths
+        * Uvalde, TX with 22 deaths and 17 injuries
