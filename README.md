@@ -9,22 +9,22 @@ For this project, we were tasked with looking at 2 data sources and performing t
 
 First, we explored kaggle.com to find an interesting data sources to work with. We data sources that look at gun violence data and automobile data.
     
-    -Complete vehicle technical database:  https://www.car-engineer.com/complete-vehicle-technical-database/ 
+    * Complete vehicle technical database:  https://www.car-engineer.com/complete-vehicle-technical-database/ 
     
     
-    -United States Gun Violence Data 2014-2022: https://www.kaggle.com/datasets/jasonmobley/united-states-gun-violence-data-20142022? resource=download
+    * United States Gun Violence Data 2014-2022: https://www.kaggle.com/datasets/jasonmobley/united-states-gun-violence-data-20142022? resource=download
 
 
 
 ## Transform
 
-    -Both of our data sources were formatted in excel files and we loaded them into our Jupyter Notebooks to turn them into csv files.
+    * Both of our data sources were formatted in excel files and we loaded them into our Jupyter Notebooks to turn them into csv files.
 
 
-    -We renamed the columns to make them compatible with Postgres.
+    * We renamed the columns to make them compatible with Postgres.
 
 
-    -We dropped some extra columns that we deemed unusable for future analysis because the dataframe contained NaN values and did not provide       valuable information.
+    * We dropped some extra columns that we deemed unusable for future analysis because the dataframe contained NaN values and did not provide       valuable information.
 
 
 We grouped the ... by .... to combine any duplicated within the table. We summed the "..." and "..." columns, averaged the "...k" column and provided a count of each restaurant so the viewer can see if it was represented in the original table multiple times. Finally, we sorted this new dataframe by ... in descending order to see the new highest ranking ... .
