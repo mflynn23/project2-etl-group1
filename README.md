@@ -9,6 +9,8 @@ For this project, we were tasked with looking at 2 data sources and performing t
 
 First, we explored kaggle.com to find an interesting data sources to work with. We found data sources that look at gun violence data and automobile data.
 
+### Sources of Data:
+
 * Complete vehicle technical database:  https://www.car-engineer.com/complete-vehicle-technical-database/ 
     
 * United States Gun Violence Data 2014-2022: https://www.kaggle.com/datasets/jasonmobley/united-states-gun-violence-data-20142022? resource=download
