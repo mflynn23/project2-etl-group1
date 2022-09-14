@@ -27,7 +27,7 @@ First, we explored kaggle.com to find an interesting data sources to work with. 
 
 * We dropped some extra columns that we deemed unusable for future analysis because the dataframe contained NaN values and did not provide       valuable information. 
 
-* All of our data were in a CSV format, so we went with SQL to store the data.
+* We went with PostgreSQL to store the data that we cleaned and saved in a dataframe.
 
 
 ## Load
