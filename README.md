@@ -1,4 +1,5 @@
 # Project-2-etl-group-1
+#### Contributors: 1.) Gianan, Rosie; 2.) Cole, Jaleel; 3.) Flynn, Mai; 4.) Pfleegor, Alexandra; 5.) Condit, Kenneth
 
 ## Background
 
